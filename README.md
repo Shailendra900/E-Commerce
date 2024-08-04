@@ -1,5 +1,5 @@
 # E-Commerce
-This is my 4th semester Final Project I Created the Project during my internship. In this i have used Angular 16 version. in which i have used HTML, CSS, JavaScript.  
+This is my MCA 4th semester Final Project I Created the Project during my internship. In this i have used Angular 16 version. in which i have used HTML, CSS, JavaScript.  
 1. In Home Page
  
    ![image](https://github.com/user-attachments/assets/78ac2fa6-0b8c-48ce-b988-65a3f3439439)
