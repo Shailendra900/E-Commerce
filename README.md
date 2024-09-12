@@ -59,9 +59,6 @@ I Created the Project during my internship. In this i have used Angular 16 versi
 ![image](https://github.com/user-attachments/assets/977092f4-a128-452e-8d74-596f66909e43)
 
 
-![image](https://github.com/user-attachments/assets/55b00fea-80b9-4093-997f-3ff8deee6fb0)
-
-
 
 6.My orders 
 
@@ -71,7 +68,7 @@ I Created the Project during my internship. In this i have used Angular 16 versi
 
 7.Seller Signup Validetion
 
-![image](https://github.com/user-attachments/assets/f44150d6-582d-4b3e-844d-53ce12b0ab06)
+![image](https://github.com/user-attachments/assets/d2b3812e-9782-44fa-ac35-7570f1b50bb4)
 
 
 7.1 After insert information
@@ -82,23 +79,23 @@ I Created the Project during my internship. In this i have used Angular 16 versi
 
 8. Seller Login
 
-![image](https://github.com/user-attachments/assets/f42d60c3-ac2c-4ca3-b492-0f319331aa04)
+![image](https://github.com/user-attachments/assets/96ec8e9e-5484-486a-b2e8-46745885fa17)
 
 8.1 After Seller Login all product List 
 
-![image](https://github.com/user-attachments/assets/c813047c-974b-4308-ae1e-35014d368d6c)
+![image](https://github.com/user-attachments/assets/726b1f8b-738f-4862-a8c3-f99018dfddde)
 
 8.2 Add Porduct
 
-![image](https://github.com/user-attachments/assets/fcc54737-9228-4a75-bc6b-140eb70d7a82)
+![image](https://github.com/user-attachments/assets/bebd857e-e4af-4a78-bafd-618196f1475b)
 
 8.3 Update Product
 
-![image](https://github.com/user-attachments/assets/48df5d88-6765-480a-b01c-ce3f5d0b3c7b)
+![image](https://github.com/user-attachments/assets/98577145-1431-432b-bccf-b100f88d9b86)
 
 8.4 Delete Product
 
-![image](https://github.com/user-attachments/assets/fb2459b4-51dd-48ec-83af-ab4b4e680260)
+![image](https://github.com/user-attachments/assets/6e5f5e61-b8fa-474f-b423-25504c2e6914)
 
 
 
@@ -110,14 +107,14 @@ I Created the Project during my internship. In this i have used Angular 16 versi
 
 9.2 Login validation
 
-![image](https://github.com/user-attachments/assets/a961ebbd-bdce-4626-8120-05ee8a3c6b14)
+![image](https://github.com/user-attachments/assets/90edcb67-6f7b-4857-90ad-b46003595b5e)
 
-![image](https://github.com/user-attachments/assets/3aacfe24-612b-4456-b3f5-bc762ce6393e)
+![image](https://github.com/user-attachments/assets/3341a1f7-91f8-42b7-bea6-73400983f5cf)
 
 
 10 Search Product 
 
-![image](https://github.com/user-attachments/assets/8030d9c5-2406-4663-844e-c774a49fca07)
+![image](https://github.com/user-attachments/assets/1987b563-6e7d-4b7f-929c-880cefee8a1d)
 
 
 
