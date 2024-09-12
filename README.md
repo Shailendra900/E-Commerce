@@ -4,6 +4,7 @@
 ### This is an Angular E-commerce application that allows users to
 * browse products
 * details of product
+* search prodcut 
 * add products to cart , remove to cart , watch added products in cart  ,
 * checkout products , or order product ,
 * ordered list, cancel order,
