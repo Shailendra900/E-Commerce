@@ -2,7 +2,7 @@
 
 ## Description
 ### This is an Angular E-commerce application that allows users to
-browse products,
+* browse products,
 details of product
 add products to cart , remove to cart, watch in cart added products ,
 checkout products, or order product ,
