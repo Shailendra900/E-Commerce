@@ -5,9 +5,9 @@
 * browse products
 * details of product
 * search prodcut 
-* add products to cart , remove to cart , watch added products in cart  ,
+* add products to cart , remove to cart , cart details ,
 * checkout products , or order product ,
-* ordered list, cancel order,
+* order details , cancel order,
 
 ### application that allows seller to
 * add products
