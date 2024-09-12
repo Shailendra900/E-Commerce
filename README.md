@@ -3,26 +3,26 @@
 ## Description
 ### This is an Angular E-commerce application that allows users to
 * browse products,
-details of product
-add products to cart , remove to cart, watch in cart added products ,
-checkout products, or order product ,
-ordered list, cancel order,
+* details of product
+* add products to cart , remove to cart, watch in cart added products ,
+* checkout products, or order product ,
+* ordered list, cancel order,
 
 ### application that allows seller to
-add products
-update product
-delete product
+* add products
+* update product
+* delete product
 
 The application fetches product data through an API , 
 E-Commerce Front-End website is developed using below Technologies:
 
-1 Angular-16
-2 Typescript
-3 HTMl
-4 CSS
-5 Bootstrap-5
-6 Node.js
-7 Json Server
+1. Angular-16
+2. Typescript
+3. HTML
+4. CSS
+5. Bootstrap-5
+6.  Node.js
+7.  Json Server
 
 This is my MCA 4th semester Final Project I Created the Project during my internship. In this i have used Angular 16 version. in which i have used HTML, CSS, JavaScript.  
 1. In Home Page
