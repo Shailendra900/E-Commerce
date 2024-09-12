@@ -102,20 +102,23 @@ I Created the Project during my internship. In this i have used Angular 16 versi
 9. User Signup / Login
  
  9.1 Signup
- 
-![image](https://github.com/user-attachments/assets/6f96257d-72fd-4daa-b412-3606c7c5832e)
+
+ ![image](https://github.com/user-attachments/assets/3341a1f7-91f8-42b7-bea6-73400983f5cf)
+
 
 9.2 Login validation
 
 ![image](https://github.com/user-attachments/assets/90edcb67-6f7b-4857-90ad-b46003595b5e)
 
-![image](https://github.com/user-attachments/assets/3341a1f7-91f8-42b7-bea6-73400983f5cf)
 
 
 10 Search Product 
 
 ![image](https://github.com/user-attachments/assets/1987b563-6e7d-4b7f-929c-880cefee8a1d)
 
+10.1 Search result
+
+![image](https://github.com/user-attachments/assets/0d015fe4-a834-4696-9a20-348b30f50d56)
 
 
 
