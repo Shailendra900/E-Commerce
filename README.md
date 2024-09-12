@@ -1,11 +1,11 @@
 # E-Commerce Front-End
 
-## Description
+## Features
 ### This is an Angular E-commerce application that allows users to
-* browse products,
+* browse products
 * details of product
-* add products to cart , remove to cart, watch in cart added products ,
-* checkout products, or order product ,
+* add products to cart , remove to cart , watch added products in cart  ,
+* checkout products , or order product ,
 * ordered list, cancel order,
 
 ### application that allows seller to
@@ -13,8 +13,7 @@
 * update product
 * delete product
 
-The application fetches product data through an API , 
-E-Commerce Front-End website is developed using below Technologies:
+## E-Commerce Front-End website is developed using below Technologies:
 
 1. Angular-16
 2. Typescript
@@ -24,40 +23,40 @@ E-Commerce Front-End website is developed using below Technologies:
 6.  Node.js
 7.  Json Server
 
-This is my MCA 4th semester Final Project I Created the Project during my internship. In this i have used Angular 16 version. in which i have used HTML, CSS, JavaScript.  
+I Created the Project during my internship. In this i have used Angular 16 version. in which i have used HTML, CSS, JavaScript.  
 1. In Home Page
  
-   ![image](https://github.com/user-attachments/assets/78ac2fa6-0b8c-48ce-b988-65a3f3439439)
+![image](https://github.com/user-attachments/assets/bc0edae3-1ece-4c60-9f03-d6a6dca090f5)
 
    
 
 2. Product list
  
-   ![image](https://github.com/user-attachments/assets/c0d65efb-0016-4ca4-b4fa-e6011449640c)
+![image](https://github.com/user-attachments/assets/0ca5bb5c-fb58-4179-b30a-d6b04910c8a7)
 
 
    
 3. Product Details
  
-![image](https://github.com/user-attachments/assets/f7182aac-28ac-4166-b382-95404db8740b)
+![image](https://github.com/user-attachments/assets/8d6eaa15-417f-4f56-83ff-eab5f64201f1)
 
 
    
 4.  Add to Cart
   
-![image](https://github.com/user-attachments/assets/656e55ac-d56a-4102-a6c1-8eb0841b6084)
+![image](https://github.com/user-attachments/assets/1ebf1dff-a5d0-49a3-9a47-b92c2c900888)
 
 
 
 4.1 Cart Details
 
-![image](https://github.com/user-attachments/assets/c0fc38ce-feb3-4a7b-bcbf-5959c41c6121)
+![image](https://github.com/user-attachments/assets/359f4137-3d19-4ba5-a0c8-ee7382b77182)
 
 
 
 5. Checkout
  
-![image](https://github.com/user-attachments/assets/dca1983d-4e90-44ab-93ef-5561d88907ad)
+![image](https://github.com/user-attachments/assets/977092f4-a128-452e-8d74-596f66909e43)
 
 
 ![image](https://github.com/user-attachments/assets/55b00fea-80b9-4093-997f-3ff8deee6fb0)
@@ -66,7 +65,7 @@ This is my MCA 4th semester Final Project I Created the Project during my intern
 
 6.My orders 
 
-![image](https://github.com/user-attachments/assets/754203d8-19b4-4292-b7cf-9d5e4b2437bd)
+![image](https://github.com/user-attachments/assets/22b60ad1-32a4-425b-9c48-dd6ec2c2cab6)
 
 
 
